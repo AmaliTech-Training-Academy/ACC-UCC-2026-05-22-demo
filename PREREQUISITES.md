@@ -204,7 +204,7 @@ Before joining the talk:
 - [ ] AWS account login works (try it the day before, not 5 minutes before)
 - [ ] Path B only: `aws sts get-caller-identity` returns your account
 - [ ] Path B only: `docker run --rm hello-world` works
-- [ ] You've cloned the demo repo (or have the link to clone it during the talk)
+- [ ] You've cloned the demo repo: `git clone https://github.com/AmaliTech-Training-Academy/ACC-UCC-2026-05-22-demo.git`
 - [ ] Your `$1` CloudWatch billing alarm exists in `us-east-1`
 - [ ] You can find **CloudShell** in the AWS console (top-right area, looks like a terminal icon) — try opening it now
 

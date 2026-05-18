@@ -1,5 +1,12 @@
 # Cloud Notes — Demo
 
+**Repo:** <https://github.com/AmaliTech-Training-Academy/ACC-UCC-2026-05-22-demo>
+
+```bash
+git clone https://github.com/AmaliTech-Training-Academy/ACC-UCC-2026-05-22-demo.git
+cd ACC-UCC-2026-05-22-demo
+```
+
 A tiny full-stack app for the Cloud Computing & AWS talk.
 
 - **Frontend** — React + Vite, served by Nginx in a container

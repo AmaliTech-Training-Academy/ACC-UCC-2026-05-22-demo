@@ -53,20 +53,16 @@ git --version
 
 ## 2. Get the demo source into CloudShell
 
-Easiest option — clone from a git repo if you have one:
+Clone the repo:
 
 ```bash
-git clone <YOUR-DEMO-REPO-URL>
-cd UCC_AWS_Solo_Demo/demo
+git clone https://github.com/AmaliTech-Training-Academy/ACC-UCC-2026-05-22-demo.git
+cd ACC-UCC-2026-05-22-demo
 ```
 
-No repo? Upload it instead. In CloudShell click **Actions → Upload file**
-and select a `demo.zip` of the demo folder. Then:
-
-```bash
-unzip demo.zip
-cd demo
-```
+> Alternative if git clone is blocked on your network: in CloudShell click
+> **Actions → Upload file** and upload a zip of the source. Then `unzip` it
+> and `cd` into the folder.
 
 Confirm you see the right files:
 

@@ -65,8 +65,11 @@ export AWS_REGION=eu-west-1
 
 ## 2. Build the images locally
 
+Clone the repo if you haven't already, then build:
+
 ```bash
-cd demo
+git clone https://github.com/AmaliTech-Training-Academy/ACC-UCC-2026-05-22-demo.git
+cd ACC-UCC-2026-05-22-demo
 docker compose build
 ```
 
